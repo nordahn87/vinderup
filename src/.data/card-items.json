@@ -1,0 +1,14 @@
+[
+    {
+      "src": "./img/fuglehus-card.jpg",
+      "alt": "Billede af et fuglehus"
+    },
+    {
+      "src": "./img/tennisbane-card.jpg",
+      "alt": "Billede af en tennisbane"
+    },
+    {
+      "src": "./img/natur-card.jpg",
+      "alt": "Billede af en hyben"
+    }
+  ]

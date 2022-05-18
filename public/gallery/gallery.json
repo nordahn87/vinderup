@@ -1,0 +1,107 @@
+[
+    {
+        "thumb" : "./gallery/thumb/elmast-thumb.jpg",
+        "large" : "./gallery/large/elmast.jpg",
+        "alt" : "Billede af en elmast"
+    },
+    {
+        "thumb" : "./gallery/thumb/fuglehuse-sevelvej-baghave-thumb.jpg",
+        "large" : "./gallery/large/fuglehuse-sevelvej-baghave.jpg",
+        "alt" : "Billede af en fuglehuse på en pæl"
+    },
+    {
+        "thumb" : "./gallery/thumb/hjertesti-thumb.jpg",
+        "large" : "./gallery/large/hjertesti.jpg",
+        "alt" : "Billede af hjertesti skilt"
+    },
+    {
+        "thumb" : "./gallery/thumb/hyben-thumb.jpg",
+        "large" : "./gallery/large/hyben.jpg",
+        "alt" : "Billede af en hyben"
+    },
+    {
+        "thumb" : "./gallery/thumb/korn-thumb.jpg",
+        "large" : "./gallery/large/korn.jpg",
+        "alt" : "Billede af korn ude på en mark"
+    },
+    {
+        "thumb" : "./gallery/thumb/krible-krable-huset-thumb.jpg",
+        "large" : "./gallery/large/krible-krable-huset.jpg",
+        "alt" : "Billede af en bunke paller stablet ovenpå hinanden, fyldt med mad til insekterne"
+    },
+    {
+        "thumb" : "./gallery/thumb/lystanlaeg-den-kinesiske-port-thumb.jpg",
+        "large" : "./gallery/large/lystanlaeg-den-kinesiske-port.jpg",
+        "alt" : "Billede af en hvid kinesisk port ind til lystanlægget"
+    },
+    {
+        "thumb" : "./gallery/thumb/lystanlaeg-sten-1917-thumb.jpg",
+        "large" : "./gallery/large/lystanlaeg-sten-1917.jpg",
+        "alt" : "Billede af en sten med teksten Vinderup lystanlæg 1917"
+    },
+    {
+        "thumb" : "./gallery/thumb/mark-himmel-thumb.jpg",
+        "large" : "./gallery/large/mark-himmel.jpg",
+        "alt" : "Billede af korn ude på en mark"
+    },
+    {
+        "thumb" : "./gallery/thumb/korn-og-mark-thumb.jpg",
+        "large" : "./gallery/large/korn-og-mark.jpg",
+        "alt" : "Billede af korn"
+    },
+    {
+        "thumb" : "./gallery/thumb/mast-hyben-thumb.jpg",
+        "large" : "./gallery/large/mast-hyben.jpg",
+        "alt" : "Billede af en mast hyben"
+    },
+    {
+        "thumb" : "./gallery/thumb/tennisbane-fokus-thumb.jpg",
+        "large" : "./gallery/large/tennisbane-fokus.jpg",
+        "alt" : "Billede af en tennisbane"
+    },
+    {
+        "thumb" : "./gallery/thumb/noerregade-kryds-thumb.jpg",
+        "large" : "./gallery/large/noerregade-kryds.jpg",
+        "alt" : "Billede af krydset på Nørregade i vinderup"
+    },
+    {
+        "thumb" : "./gallery/thumb/jernbane-skinder-thumb.jpg",
+        "large" : "./gallery/large/jernbane-skinder.jpg",
+        "alt" : "Billede af jernbane skinder"
+    },
+    {
+        "thumb" : "./gallery/thumb/skulptur-thumb.jpg",
+        "large" : "./gallery/large/skulptur.jpg",
+        "alt" : "Billede af en skulptur"
+    },
+    {
+        "thumb" : "./gallery/thumb/tennisbane-ude-af-fokus-thumb.jpg",
+        "large" : "./gallery/large/tennisbane-ude-af-fokus.jpg",
+        "alt" : "Billede af en tennisbane"
+    },
+    {
+        "thumb" : "./gallery/thumb/vand-mark-thumb.jpg",
+        "large" : "./gallery/large/vand-mark.jpg",
+        "alt" : "Billede af en fabrik i horisonten"
+    },
+    {
+        "thumb" : "./gallery/thumb/vandloeb-thumb.jpg",
+        "large" : "./gallery/large/vandloeb.jpg",
+        "alt" : "Billede af et vandløb"
+    },
+    {
+        "thumb" : "./gallery/thumb/vandtaarn-thumb.jpg",
+        "large" : "./gallery/large/vandtaarn.jpg",
+        "alt" : "Billede af et vandtårn"
+    },
+    {
+        "thumb" : "./gallery/thumb/hjertesti-trae-thumb.jpg",
+        "large" : "./gallery/large/hjertesti-trae.jpg",
+        "alt" : "Billede af et træ"
+    },
+    {
+        "thumb" : "./gallery/thumb/fuglehuse-sevelvej-thumb.jpg",
+        "large" : "./gallery/large/fuglehuse-sevelvej.jpg",
+        "alt" : "Billede af et skilt med teksten fuglehuse"
+    }
+]

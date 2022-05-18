@@ -1,0 +1,42 @@
+[
+    {
+        "id": "hotellet",
+        "src": "./img/hotel-vinderup-cover.jpg",
+        "alt": "Billede af Hotel Vinderup",
+        "headline" : "Hotellet",
+        "year" : "1904",
+        "text" : "Vinderup Hotel bliver drevet af ægteparret Mette og Jacob Frederiksen, som tilbyder både overnatning, mad til fester og meget andet. Igennem flere årtier har hotellet haft tradition for ”Enkeballer”, stiftet af Mor Karen."
+    },
+    {
+        "id": "hjertestien",
+        "src": "./img/hjertesti-cover.jpg",
+        "alt": "Billede af Hjertestien",
+        "headline" : "Hjertestien",
+        "year" : "2020",
+        "text" : "Første del af stien går langs Svenstrup Å, hvor der på begge sider er sump/vådområder flere steder med frit vandspejl. Der er et rigt fugleliv. Efter ca. 1,7 km kommer der et skovområde med shelters og bålplads med bænke. Stien fortsætter langs Hasselholtvej."
+    },
+    {
+        "id": "togstationen",
+        "src": "./img/togstation-cover.jpg",
+        "alt": "Billede af Vinderup Station",
+        "headline" : "Togstationen",
+        "year" : "1865",
+        "text" : " Vinderup station er en banegård, der betjener jernbanebyen. Stationen ligger på Langå-Struer Banen fra Langå til Struer. I 1973 blev stationen nedgraderet til et trinbræt, men er fortsat krydsningsstation."
+    },    
+    {
+        "id": "vandtaarnet",
+        "src": "./img/vandtaarn-cover.jpg",
+        "alt": "Billede af er vandtårn",
+        "headline" : "Vandtårnet",
+        "year" : "1926",
+        "text" : "Vandtårnet var færdigbygget i 1926 og dets tank kan rumme 67 m3 vand. Det var i drift indtil 1977. Tidligere fandtes et andet vandtårn i Vinderup, nemlig et jernbanetårn ved Vinderup Station opført i 1865 og nedlagt i 1908."
+    },
+    {
+        "id": "lystanlaegget",
+        "src": "./img/lystanlaeg-cover.jpg",
+        "alt": "Billede af Vinderup port ind til vinderup lystanlæg",
+        "headline" : "Lystanlægget",
+        "year" : "1917",
+        "text" : "Lystanlægget er et grønt anlæg med damme, haveanlæg, mindesmærker, skulpturer og skovbevoksning. Vedligeholdes forgår i et samarbejde med kommunens ansatte og frivillige fra ”Vinderup Voliere- og flagpasserlaug” og ”Hakkedrengene”."
+    } 
+]

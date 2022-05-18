@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ----- Overwrite default css ----- */
+* {
+  @apply p-0 
+  m-0 
+  box-border
+}
+
+img {
+  color: white;
+}
+
+a {
+  @apply no-underline
+}
+
+#root > main {
+  min-height: 100vh;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* ----- Global css ----- */
+body {
+  font-family: "Work Sans", sans-serif;
+  @apply text-base font-light
+}
+
+main section + section {
+  @apply mt-5
+}
+
+button {
+  @apply transition-300 font-oswald
+}
+
+/* ----- Extended css ----- */
+.transition-300 {
+  @apply duration-300 ease-in-out;
+}
+
+.font-oswald {
+  font-family: "Oswald", sans-serif;
+}
+
+.font-permanent-marker {
+  font-family: "Permanent Marker", sans-serif;
+}
+
+.font-work-sans {
+  font-family: "Work Sans", sans-serif;
+}
+
+.-top-screen {
+  top: -100vh;
+}
+
+/* ----- Article section css ----- */
+.article-container {
+  @apply relative mdlg:overflow-hidden
+}
+
+.article-active > img {
+  filter: brightness(80%);
+  @apply transition-300
+}
+
+/* ----- Article textbox ----- */
+.article-container-textbox {
+  @apply mdlg:absolute bg-white p-6 md:px-12 md:pt-12 mdlg:pb-20 md:-bottom-full w-full mdlg:right-0 mdlg:w-550 lg:w-600
+}
+
+.article-container-textbox-type {
+  font-family: "Permanent Marker", sans-serif;
+  @apply tracking-widest lg:text-4xl 2xsm:text-3xl text-2xl font-bold text-primary mb-1
+}
+
+.article-container-textbox-year {
+  font-family: "Oswald", sans-serif;
+  @apply lg:text-2xl mdlg:text-xl text-lg font-bold mb-2
+}
+
+.textbox-active {
+  @apply bottom-0 transition-300
+}
+
+.disable-scroll {
+  overflow-y: hidden;
+}
+
+*:focus {
+  outline: 0 !important;
+}
