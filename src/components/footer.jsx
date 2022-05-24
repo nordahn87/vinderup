@@ -1,4 +1,4 @@
-import logoLigt from "../logo/vinderup-logo-light.svg";
+import logoLigt from '../logo/vinderup-logo-light.svg';
 
 const Footer = () => {
 

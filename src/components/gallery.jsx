@@ -1,8 +1,8 @@
-import logoLightText from "../logo/vinderup-logo-light-text.svg";
-import React, { useCallback, useState, useEffect } from "react";
-import ScrollToTopButton from "./scroll-to-top-button";
+import logoLightText from '../logo/vinderup-logo-light-text.svg';
+import React, { useCallback, useState, useEffect } from 'react';
+import ScrollToTopButton from './scroll-to-top-button';
 import { Link } from 'react-router-dom';
-import Main from "./main"
+import Main from './main'
 
 const Gallery = () => {
 

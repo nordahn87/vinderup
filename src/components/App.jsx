@@ -1,9 +1,9 @@
-import React from "react";
-import Homepage from "./homepage"
-import Gallery from "./gallery";
-import Footer from "./footer";
+import React from 'react';
+import Homepage from './homepage'
+import Gallery from './gallery';
+import Footer from './footer';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import ScrollToTop from "./scroll-to-top";
+import ScrollToTop from './scroll-to-top';
 
 const App = () => {
   return (

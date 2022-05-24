@@ -1,6 +1,6 @@
-import logoLightText from "../logo/vinderup-logo-light-text.svg";
-import logoDarkText from "../logo/vinderup-logo-dark-text.svg";
-import { useState } from "react";
+import logoLightText from '../logo/vinderup-logo-light-text.svg';
+import logoDarkText from '../logo/vinderup-logo-dark-text.svg';
+import { useState } from 'react';
 import NavigationItem from './navigation/item';
 import NavItemsData from '../.data/navigation-items';
 import GalleryButton from './gallery/button'
